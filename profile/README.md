@@ -1,17 +1,3 @@
-hi welcome to chilis
-
-## what is this
-
-Place to put things relevant to modded minecraft that aren't themselves mods - toolchains, tools, mod analyzers, etc
-
-## thats nice. well it's looken kinda barren at the moment
-
-Yeah i know. sorry
-
-## whats with the name
-
-spoof on minecraft projects that name themself after a random block or item from the game (see: basically anything bukkit-derived)
-
 # THE TOOLING MANIFESTO
 
 * I PLEDGE TO ALWAYS WRITE MINECRAFT TOOLCHAINS TO THE BEST OF MY ABILITY
@@ -41,3 +27,22 @@ THE INCLUSION OF THE TOOLING MANIFESTO IS A PLEDGE OF QUALITY
 INCLUDE THIS IN YOUR TOOLCHAINS AND MODS IF YOU AGREE 
 
 THIS WAY PLAYERS AND DEVELOPERS CAN BE SURE TO PICK OUT QUALITY TOOLING SIMPLY BY LOCATING THE TOOLING MANIFESTO (CTRL+F)
+
+# hi welcome to chilis
+
+## what is this
+
+Place to put things relevant to modded minecraft that aren't themselves mods - toolchains, tools, mod analyzers, etc
+
+## thats nice. well it's looken kinda barren at the moment
+
+Yeah i know. sorry
+
+## also whats that big wall about
+
+its a copypasta dont worry about it
+
+## whats with the name
+
+spoof on minecraft projects that name themself after a random block or item from the game (see: basically anything bukkit-derived)
+
