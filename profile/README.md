@@ -1,17 +1,8 @@
 # hi welcome to chilis
 
-Place to put things relevant to modded minecraft that aren't themselves mods - toolchains, tools, mod analyzers, etc.
+Cracked Polished Blackstone Bricks MC is an organization for developing modded minecraft-relevant tooling. Gradle plugins, toolchains, analyzers, utilities etc. Everything except the mods.
 
-Current project: [Voldeloom](https://github.com/CrackedPolishedBlackstoneBricksMC/voldeloom/tree/disaster-time) fork.
+Current projects:
 
-## thats nice. well the organization is looken kinda barren at the moment
-
-Yeah i know. sorry
-
-## whats with the name
-
-spoof on minecraft projects that name themself after a random block or item from the game (see: basically anything bukkit-derived)
-
-## whered the Copy pasta go
-
-i got tired of scrolling past it every time
+* a [Voldeloom](https://github.com/CrackedPolishedBlackstoneBricksMC/voldeloom/tree/disaster-time) fork, modernized and updated
+* [minivan](https://github.com/CrackedPolishedBlackstoneBrickdMC/minivan), bare-minimum Gradle plugin for putting vanilla Minecraft on the classpath
