@@ -5,4 +5,4 @@ Cracked Polished Blackstone Bricks MC is an organization for developing modded m
 Current projects:
 
 * a [Voldeloom](https://github.com/CrackedPolishedBlackstoneBricksMC/voldeloom/tree/disaster-time) fork, modernized and updated
-* [minivan](https://github.com/CrackedPolishedBlackstoneBrickdMC/minivan), bare-minimum Gradle plugin for putting vanilla Minecraft on the classpath
+* [minivan](https://github.com/CrackedPolishedBlackstoneBricksMC/minivan), bare-minimum Gradle plugin for putting vanilla Minecraft on the classpath
